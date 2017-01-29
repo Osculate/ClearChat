@@ -39,20 +39,7 @@ public class Main extends JavaPlugin implements CommandExecutor {
 				p.sendMessage(ChatColor.GREEN + p.getName() + " has cleared the chat.");
 			}
 		}
-		
 		return true;
-		
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }
