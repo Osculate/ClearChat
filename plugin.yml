@@ -1,0 +1,8 @@
+name: ClearChat
+version: 1.0
+main: me.osculate.clearchat.Main
+
+commands:
+   clearchat:
+      aliases: [cc]
+      description: Clears the Chat
